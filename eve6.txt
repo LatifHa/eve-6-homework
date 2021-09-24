@@ -1,0 +1,50 @@
+Metn ve Simvollarla ish
+
+     string,Char tipi haqqinda melumat.
+        Substring (Qeyd: s.Substring(1) halini)
+	IndexOf
+	LastIndexOf
+	Replace
+	toUpper
+        toLower
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+	
+      
+1)  Verilmish metnde {a} simvolun sayi {b} simvolun sayinda nece defe coxdur?
+
+2)  Verilmish metnde sol terefden tek yerde dayanan simvollarin hamisi {a} simvoludurmu?
+
+3)  Verilmish metnde sol terefden tek yerde dayanan simvollardan necesi {b} -ye beraberdir.
+
+4)  Verilmish metnde sol terefden ilk rast gelinen {a} simvolunun yeri tek ededdi yoxsa cut ?
+
+5)  Verilmish metnde sol terefden saydiqda {a},{b},{c} simollarindan  hansi birinci gelir?
+
+6)  Verilmish metnde {a} simvolunun sol terefden ve sag terefden indexleri eydidirmi?
+
+7)  Verilmish metnde {a} simvolu {b} simvolundan qabaq ve oda {c} simvolundan qabaq gelirmi?
+
+8)  Verilmish metnde ilk qabagima cixan {a} simvolundan sonra gelen simvolu 10 defe dalbadal cap et.
+
+9)  Verilmish metinde ilk 3 simvol, son 3 simvolun tersine formasina beraberdirmi.?
+
+10) Verilmish metinde butun reqemleri legv et.
+
+11) Verilmish metinde butun {a} simvollarinin qabagina {b} simvolunu  ve
+    eyni zamandan butun {b} simvollarinin qabagina {a} simvolunu yaz.
+
+12) Verilmish metinde en ilk ve en son {a} simvolundan bashqa yerde qalan butun {a} simvollarini yox et.
+
+13) Verilimish metinde butun simvollari ardicil shekilde biri balaca, biri boyuk formada cap et.
+
+14) Verilmish metinde butun tek yerde dayanan simvollari ondan sonra gelen  simvolun BOYUK formasi ile evez et.
+
+15)* Verilmish metinde ilk ve son simvol eynidirse, 
+     ve metn daxilinde yanashi gelen {a} simvolu varsa,
+     ve metn daxilinde {b} simvolu yoxdursa
+     o zaman bu metnde butun {c} simvollari yox et ve
+     neticede alinan metn zerkalni olub olmadigini yoxla.
